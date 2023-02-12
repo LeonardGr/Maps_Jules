@@ -1,0 +1,15 @@
+{ "columns":4,
+ "image":"..\/tilesets\/Jules_logo_VERT_rgb-removebg-preview.png",
+ "imageheight":32,
+ "imagewidth":135,
+ "margin":0,
+ "name":"LogoJules",
+ "spacing":0,
+ "tilecount":4,
+ "tiledversion":"1.9.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "transparentcolor":"#ff00ff",
+ "type":"tileset",
+ "version":"1.9"
+}
